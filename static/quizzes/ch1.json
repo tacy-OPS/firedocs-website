@@ -1,0 +1,118 @@
+[
+  {
+    "id": "q1_1",
+    "question": "Quel est l'objectif principal de l'attitude du secouriste sur intervention ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Assurer sa sécurité et celle des autres",
+        "correct": true,
+        "ref": "/suap/recommandation-pse/01_attitude-et-comportements/attitude-et-comportement",
+        "explanation": "Le secouriste veille avant tout à sa propre sécurité et celle des autres."
+      },
+      {
+        "id": "b",
+        "text": "Terminer l'intervention le plus rapidement possible"
+      },
+      {
+        "id": "c",
+        "text": "Suivre les ordres sans réfléchir"
+      }
+    ]
+  },
+  {
+    "id": "q1_2",
+    "question": "Parmi ces comportements, lesquels sont attendus d’un secouriste ?",
+    "multi": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "Être calme et rassurant",
+        "correct": true,
+        "ref": "/suap/recommandation-pse/01_attitude-et-comportements/attitude-et-comportement"
+      },
+      {
+        "id": "b",
+        "text": "Communiquer clairement",
+        "correct": true,
+        "ref": "/suap/recommandation-pse/01_attitude-et-comportements/attitude-et-comportement"
+      },
+      {
+        "id": "c",
+        "text": "Ignorer les consignes de sécurité"
+      },
+      {
+        "id": "d",
+        "text": "S’adapter à la situation",
+        "correct": true,
+        "ref": "/suap/recommandation-pse/01_attitude-et-comportements/attitude-et-comportement"
+      }
+    ]
+  },
+  {
+    "id": "q1_3",
+    "question": "Dans le cadre de la communication, il est important de :",
+    "multi": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "Donner des informations claires et précises",
+        "correct": true,
+        "ref": "/suap/recommandation-pse/01_attitude-et-comportements/attitude-et-comportement"
+      },
+      {
+        "id": "b",
+        "text": "Utiliser un langage adapté à l'interlocuteur",
+        "correct": true,
+        "ref": "/suap/recommandation-pse/01_attitude-et-comportements/attitude-et-comportement"
+      },
+      {
+        "id": "c",
+        "text": "Ne pas écouter les autres"
+      }
+    ]
+  },
+  {
+    "id": "q1_4",
+    "question": "Que doit faire le secouriste avant d’intervenir ?",
+    "multi": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "Évaluer les risques",
+        "correct": true,
+        "ref": "/suap/recommandation-pse/01_attitude-et-comportements/attitude-et-comportement"
+      },
+      {
+        "id": "b",
+        "text": "S'équiper correctement",
+        "correct": true,
+        "ref": "/suap/recommandation-pse/01_attitude-et-comportements/attitude-et-comportement"
+      },
+      {
+        "id": "c",
+        "text": "Ignorer les risques pour gagner du temps"
+      }
+    ]
+  },
+  {
+    "id": "q1_5",
+    "question": "L'attitude face à une victime doit être :",
+    "options": [
+      {
+        "id": "a",
+        "text": "Empathique et professionnelle",
+        "correct": true,
+        "ref": "/suap/recommandation-pse/01_attitude-et-comportements/attitude-et-comportement"
+      },
+      {
+        "id": "b",
+        "text": "Strictement directive"
+      },
+      {
+        "id": "c",
+        "text": "Indifférente"
+      }
+    ]
+  }
+]

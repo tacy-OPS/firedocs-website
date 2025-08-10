@@ -1,0 +1,283 @@
+[
+  {
+    "id": "q2_1",
+    "question": "L'évaluation des **fonctions vitales** repose sur :",
+    "options": [
+      {
+        "id": "a",
+        "text": "Trois grandes fonctions",
+        "correct": true,
+        "ref": "/docs/suap/recommandation-pse/02_bilans/evaluations-et-mesures-vitales",
+        "explanation": "La fiche précise que l'évaluation repose sur trois grandes fonctions."
+      },
+      {
+        "id": "b",
+        "text": "Une seule fonction prioritaire"
+      },
+      {
+        "id": "c",
+        "text": "Autant de fonctions que nécessaire selon le contexte"
+      }
+    ]
+  },
+  {
+    "id": "q2_2",
+    "question": "Quelle est la **fréquence de surveillance** en cas de détresse ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Toutes les 5 minutes",
+        "correct": true,
+        "ref": "/docs/suap/recommandation-pse/02_bilans/evaluations-et-mesures-vitales",
+        "explanation": "En cas de détresse : toutes les 5 minutes."
+      },
+      {
+        "id": "b",
+        "text": "Toutes les 10 minutes"
+      },
+      {
+        "id": "c",
+        "text": "Toutes les 15 minutes"
+      }
+    ]
+  },
+  {
+    "id": "q2_3",
+    "question": "Hors détresse, la surveillance est réalisée :",
+    "options": [
+      {
+        "id": "a",
+        "text": "Toutes les 5 minutes"
+      },
+      {
+        "id": "b",
+        "text": "Toutes les 15 minutes",
+        "correct": true,
+        "ref": "/docs/suap/recommandation-pse/02_bilans/evaluations-et-mesures-vitales",
+        "explanation": "En l'absence de détresse : toutes les 15 minutes."
+      },
+      {
+        "id": "c",
+        "text": "Toutes les 30 minutes"
+      }
+    ]
+  },
+  {
+    "id": "q2_4",
+    "question": "Quelles **conditions générales** s'appliquent aux mesures ?",
+    "multi": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "Respecter l'hygiène (désinfection, gants)",
+        "correct": true,
+        "ref": "/docs/suap/recommandation-pse/02_bilans/evaluations-et-mesures-vitales"
+      },
+      {
+        "id": "b",
+        "text": "Expliquer le geste à la victime",
+        "correct": true,
+        "ref": "/docs/suap/recommandation-pse/02_bilans/evaluations-et-mesures-vitales"
+      },
+      {
+        "id": "c",
+        "text": "Ne pas noter l'heure de la mesure"
+      },
+      {
+        "id": "d",
+        "text": "Réaliser la mesure au repos, position stable",
+        "correct": true,
+        "ref": "/docs/suap/recommandation-pse/02_bilans/evaluations-et-mesures-vitales"
+      },
+      {
+        "id": "e",
+        "text": "Préparer et tester le matériel",
+        "correct": true,
+        "ref": "/docs/suap/recommandation-pse/02_bilans/evaluations-et-mesures-vitales"
+      }
+    ]
+  },
+  {
+    "id": "q2_5",
+    "question": "Lors de la transmission, la **forme** attendue est :",
+    "options": [
+      {
+        "id": "a",
+        "text": "Structurée, logique et chronologique",
+        "correct": true,
+        "ref": "/docs/suap/recommandation-pse/02_bilans/bilans-et-surveillance",
+        "explanation": "Transmission structurée, logique, chronologique."
+      },
+      {
+        "id": "b",
+        "text": "Libre et improvisée"
+      },
+      {
+        "id": "c",
+        "text": "Uniquement des mots-clés, sans ordre"
+      }
+    ]
+  },
+  {
+    "id": "q2_6",
+    "question": "Dans les **cas particuliers**, que faire en situation de détresse vitale ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Transmettre immédiatement le bilan et demander un renfort médical",
+        "correct": true,
+        "ref": "/docs/suap/recommandation-pse/02_bilans/bilans-et-surveillance"
+      },
+      {
+        "id": "b",
+        "text": "Attendre la fin du bilan complet"
+      },
+      {
+        "id": "c",
+        "text": "Transmettre uniquement par écrit"
+      }
+    ]
+  },
+  {
+    "id": "q2_7",
+    "question": "Hors détresse, la transmission du bilan se fait :",
+    "options": [
+      {
+        "id": "a",
+        "text": "Immédiatement, même si incomplet"
+      },
+      {
+        "id": "b",
+        "text": "À l'issue de l'évaluation, bilan complet",
+        "correct": true,
+        "ref": "/docs/suap/recommandation-pse/02_bilans/bilans-et-surveillance"
+      },
+      {
+        "id": "c",
+        "text": "Uniquement si la hiérarchie le demande"
+      }
+    ]
+  },
+  {
+    "id": "q2_8",
+    "question": "En **situation complexe ou urgente**, il convient de :",
+    "multi": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "Décrire précisément la scène",
+        "correct": true,
+        "ref": "/docs/suap/recommandation-pse/02_bilans/bilans-et-surveillance"
+      },
+      {
+        "id": "b",
+        "text": "Corriger les informations initiales si besoin",
+        "correct": true,
+        "ref": "/docs/suap/recommandation-pse/02_bilans/bilans-et-surveillance"
+      },
+      {
+        "id": "c",
+        "text": "Demander les moyens adaptés",
+        "correct": true,
+        "ref": "/docs/suap/recommandation-pse/02_bilans/bilans-et-surveillance"
+      },
+      {
+        "id": "d",
+        "text": "Limiter l'information au strict minimum pour gagner du temps"
+      }
+    ]
+  },
+  {
+    "id": "q2_9",
+    "question": "L'ECG est :",
+    "options": [
+      {
+        "id": "a",
+        "text": "Un enregistrement de l'activité électrique du cœur",
+        "correct": true,
+        "ref": "/docs/suap/recommandation-pse/02_bilans/electrocardiogramme"
+      },
+      {
+        "id": "b",
+        "text": "Une mesure de la saturation en oxygène"
+      },
+      {
+        "id": "c",
+        "text": "Une radiographie du thorax"
+      }
+    ]
+  },
+  {
+    "id": "q2_10",
+    "question": "Parmi ces **précautions** pour l'ECG, lesquelles sont correctes ?",
+    "multi": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "Ne pas poser d'électrodes sur une peau lésée ou trop poilue",
+        "correct": true,
+        "ref": "/docs/suap/recommandation-pse/02_bilans/electrocardiogramme"
+      },
+      {
+        "id": "b",
+        "text": "Éviter les interférences électriques (téléphones, câbles…)",
+        "correct": true,
+        "ref": "/docs/suap/recommandation-pse/02_bilans/electrocardiogramme"
+      },
+      {
+        "id": "c",
+        "text": "Respecter l'intimité de la victime",
+        "correct": true,
+        "ref": "/docs/suap/recommandation-pse/02_bilans/electrocardiogramme"
+      },
+      {
+        "id": "d",
+        "text": "Interpréter soi-même l'ECG pour gagner du temps"
+      }
+    ]
+  },
+  {
+    "id": "q2_11",
+    "question": "Concernant la **réalisation d'un ECG** par un secouriste :",
+    "options": [
+      {
+        "id": "a",
+        "text": "Elle est libre si le matériel est disponible"
+      },
+      {
+        "id": "b",
+        "text": "Elle est strictement encadrée et ne se fait que sur demande explicite médicale",
+        "correct": true,
+        "ref": "/docs/suap/recommandation-pse/02_bilans/electrocardiogramme",
+        "explanation": "Encadré Important : uniquement sur demande explicite."
+      },
+      {
+        "id": "c",
+        "text": "Elle dépend du bon vouloir de l'équipe"
+      }
+    ]
+  },
+  {
+    "id": "q2_12",
+    "question": "Dans la transmission, il peut être nécessaire de :",
+    "multi": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "Définir l'orientation",
+        "correct": true,
+        "ref": "/docs/suap/recommandation-pse/02_bilans/bilans-et-surveillance"
+      },
+      {
+        "id": "b",
+        "text": "Réaliser un relai",
+        "correct": true,
+        "ref": "/docs/suap/recommandation-pse/02_bilans/bilans-et-surveillance"
+      },
+      {
+        "id": "c",
+        "text": "Supprimer toute information initiale"
+      }
+    ]
+  }
+]
